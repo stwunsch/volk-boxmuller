@@ -6,5 +6,5 @@ The implementation runs about 3x to 3.5x faster than the generic implementation.
 
 For all other questions, see the VOLK project [2].
 
-[1] en.wikipedia.org/wiki/Box%E2%80%93Muller_transform  
-[2] www.libvolk.org
+[1] https://en.wikipedia.org/wiki/Box%E2%80%93Muller_transform  
+[2] https://www.libvolk.org
